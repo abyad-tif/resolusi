@@ -1,2 +1,4 @@
 Rencana 
-1. Web Development (HTML, CSS, JS)
+1. Web Development
+    a. Front-End (HTML, CSS, JS)
+    b. Back-End (Python)
